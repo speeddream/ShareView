@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "ShareView/*.{h,m}"
+  s.source_files  = "ShareView/ShareView/*.{h,m}"
   # s.exclude_files = "ShareView/Exclude"
 
   # s.public_header_files = "ShareView/**/*.h"
